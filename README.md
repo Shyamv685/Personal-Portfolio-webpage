@@ -28,6 +28,21 @@
 - **Portfolio Section**: A collection of projects displayed in a grid format, illustrating the developer's work and achievements.
 - **Contact Section**: A call-to-action for users to connect with Michaelson through various social media platforms.
 - **Footer**: A simple footer with copyright information.
+---
+
+# SCREENSHOT
+![Screenshot 2025-01-07 061245](https://github.com/user-attachments/assets/1c9d7bee-41c7-4d64-9d51-62ddbb82f454) 
+
+
+![Screenshot 2025-01-07 061302](https://github.com/user-attachments/assets/887e7e7a-0fc4-4dec-a55a-a0890273d3c0) 
+
+
+![Screenshot 2025-01-07 061322](https://github.com/user-attachments/assets/0d448dcb-b4d8-4311-b1d5-a9f39d4b8d7b)
+
+
+
+
+
 
 ## Technologies Used
 
